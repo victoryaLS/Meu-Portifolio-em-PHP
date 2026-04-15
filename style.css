@@ -1,0 +1,30 @@
+.font-inconsolata {
+  font-family: 'inconsolata', sans-serif;
+}
+
+.font-asap {
+  font-family: 'Asap', sans-serif;
+}
+
+.font-maven-pro {
+    font-family: "Maven Pro", sans-serif;
+    line-height: 140%;
+}
+
+.title-lg {
+  font-weight: bold;
+}
+
+.title-md {
+    font-weight: bold;
+}
+
+.title-sm {
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 400;
+}
+
